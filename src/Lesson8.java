@@ -30,6 +30,7 @@ public class Lesson8 {
 
         System.out.println(symmetry);
         System.out.println("Slmmmmm");
+        System.out.println("salam");
 
 
     }
